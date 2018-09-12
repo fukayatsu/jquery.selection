@@ -1,6 +1,6 @@
 {
-    "name": "selection",
-    "title": "jquery.selection",
+    "private": true,
+    "name": "jquery.selection",
     "version": "1.0.1",
     "author": {
         "name": "Koji Iwasaki",
